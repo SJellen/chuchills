@@ -139,6 +139,13 @@ a {
     padding: 50px
 }
 
+#copy {
+    float: right;
+    padding-top: 25px;
+    opacity: .3;
+    font-size: .5em;
+}
+
 
 
 /* Extra small devices (phones, 600px and down) */
