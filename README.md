@@ -5,7 +5,7 @@
 
 > A redesign of a home heating company.
 
-### ✨ [Demo](http://homely-bikes.surge.sh)
+### ✨ [Demo](https://homely-bikes.surge.sh)
 
 ## Author
 
